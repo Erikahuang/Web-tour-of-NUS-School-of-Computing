@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-com1-building_edited",
-      "name": "COM1 Building_edited",
+      "name": "COM1 Building",
       "levels": [
         {
           "tileSize": 256,
@@ -65,7 +65,7 @@ var APP_DATA = {
     },
     {
       "id": "1-foyer-at-level-2_edited",
-      "name": "Foyer at Level 2_edited",
+      "name": "Foyer at Level 2",
       "levels": [
         {
           "tileSize": 256,
@@ -110,7 +110,7 @@ var APP_DATA = {
     },
     {
       "id": "2-lobby_edited",
-      "name": "Lobby_edited",
+      "name": "Lobby",
       "levels": [
         {
           "tileSize": 256,
